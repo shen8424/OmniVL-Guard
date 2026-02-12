@@ -35,7 +35,7 @@
 ## 🖼️ Framework Overview
 
 <div align="center">
-  <img src="assets/figure1_overview.png" alt="OmniVL-Guard Overview" width="100%">
+  <img src="tease.pdf" alt="OmniVL-Guard Overview" width="100%">
   <br>
   <em>Figure 1: The unified vision-language forgery detection and grounding framework (OmniVL-Guard). The right side illustrates how ARSPO achieves balanced optimization compared to standard SFT.</em>
 </div>
