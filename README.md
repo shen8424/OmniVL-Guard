@@ -64,10 +64,10 @@
 
 ## 📊 Dataset: FSFR
 
-We present **FSFR (Full-Spectrum Forensic Reasoning)**, a comprehensive multimodal corpus designed for the full SFT-RL-Test pipeline.
+We present **FSFR (Full-Spectrum Forensic Reasoning)**, a comprehensive multimodal corpus designed for the full SFT-RL pipeline.
 
-* **Scale:** ~73k SFT samples (with CoT), ~110k RL samples, and ~700k Test samples.
-* **Modalities:** Text, Image, Video, Image-Text.
+* **Scale:** ~73k SFT samples (with CoT), ~110k RL samples.
+* **Modalities:** Text, Image, Video.
 * **Tasks:** * Binary Forgery Classification.
     * Tampering Localization (Spatial for Image, Semantic for Text, Temporal for Video).
 
