@@ -17,7 +17,7 @@
 - [ ] Release **OmniVL-Guard-8B**, our flagship unified vision-language forensic model.
 - [ ] Release **FSFR (Full-Spectrum Forensic Reasoning)**, a large-scale multimodal forensic reasoning dataset.
 - [ ] Open-source the complete **OmniVL-Guard code base**, including the full training pipeline from scratch.
-- [ ] Release **OmniVL-Guard-3B**, a lightweight and efficient version for broader deployment.
+- [ ] Release **OmniVL-Guard-2B**, a lightweight and efficient version for broader deployment.
 - [ ] Provide fine-tuning recipes and checkpoints for adapting **OmniVL-Guard-8B / OmniVL-Guard-3B** to additional forensic datasets.
 
 Please **Star** ⭐ this repository to stay updated!
