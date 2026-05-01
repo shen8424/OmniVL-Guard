@@ -18,7 +18,7 @@
 - [ ] Release **FSFR (Full-Spectrum Forensic Reasoning)**, a large-scale multimodal forensic reasoning dataset.
 - [ ] Open-source the complete **OmniVL-Guard code base**, including the full training pipeline from scratch.
 - [ ] Release **OmniVL-Guard-2B**, a lightweight and efficient version for broader deployment.
-- [ ] Provide fine-tuning recipes and checkpoints for adapting **OmniVL-Guard-8B / OmniVL-Guard-3B** to additional forensic datasets.
+- [ ] Provide fine-tuning recipes and checkpoints for adapting **OmniVL-Guard-8B / OmniVL-Guard-2B** to additional forensic datasets.
 
 Please **Star** ⭐ this repository to stay updated!
 
@@ -150,7 +150,7 @@ Please refer to our paper for full comparison tables and detailed experimental a
   Complete training and evaluation pipeline from scratch.
 
 - [ ] **Fine-Tuning Recipes**  
-  Recipes for adapting OmniVL-Guard-8B / OmniVL-Guard-3B to other datasets.
+  Recipes for adapting OmniVL-Guard-8B / OmniVL-Guard-2B to other datasets.
 
 - [ ] **Additional Fine-Tuned Checkpoints**  
   OmniVL-Guard variants fine-tuned on external forensic datasets.
